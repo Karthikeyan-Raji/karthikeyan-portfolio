@@ -92,7 +92,7 @@ export default function ResumeModal({ isOpen, onClose }) {
               SUMMARY
             </h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
-              MCA graduate with strong knowledge in Java programming, Python development, database management, and web technologies. Skilled in developing practical software solutions, Android applications, and progressive web applications through academic and internship experience. Strong problem-solving abilities with hands-on exposure to full stack development and collaborative project execution. Eager to contribute technical expertise and adaptability to a growth-oriented software development role.
+              MCA graduate with strong expertise in Python development, Java programming, relational & NoSQL databases, and modern full-stack web technologies. Skilled in developing practical software solutions, RESTful backend APIs, and responsive web applications through academic rigor and hands-on internship experience. Eager to contribute technical expertise and adaptability to a growth-oriented Python Developer or Full Stack Software Engineer role.
             </p>
           </div>
 

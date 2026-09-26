@@ -1,13 +1,14 @@
 export const personalInfo = {
   name: "Karthikeyan R",
-  role: "Python Full Stack Developer & Creative Software Engineer",
+  role: "Python Developer & Full Stack Software Engineer",
   taglines: [
+    "Python Developer",
     "Python Full Stack Developer",
-    "React & Three.js Enthusiast",
-    "Backend & API Architect",
+    "Backend & REST API Architect",
+    "React & Interactive UI Engineer",
     "Creative UI/UX Technologist"
   ],
-  bio: "MCA graduate with deep expertise in Python, Java, modern React ecosystems, and scalable database architectures. Dedicated to building high-performance web applications and interactive 3D digital experiences.",
+  bio: "MCA graduate with deep expertise in Python development, Java, modern React ecosystems, and scalable database architectures. Dedicated to engineering robust Python backends, high-performance web applications, and interactive digital experiences.",
   email: "kkeyan0934@gmail.com",
   phone: "+91 7397503790",
   location: "Salem, Tamil Nadu, India",
@@ -185,6 +186,7 @@ export const skillsData = {
   ],
   frameworks: [
     { name: "React", level: 90, icon: "⚛️", color: "#61dafb" },
+    { name: "FastAPI / Flask", level: 88, icon: "⚡", color: "#10b981" },
     { name: "Next.js", level: 85, icon: "▲", color: "#ffffff" },
     { name: "Tailwind CSS", level: 94, icon: "🌊", color: "#38bdf8" },
     { name: "Three.js / R3F", level: 80, icon: "🔮", color: "#a855f7" },

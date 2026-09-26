@@ -24,7 +24,7 @@ export default function Footer({ onOpenResume }) {
               </span>
             </div>
             <p className="text-xs text-slate-400 max-w-sm mx-auto md:mx-0">
-              Python Full Stack Developer & Creative Software Engineer based in Salem, Tamil Nadu, India.
+              Python Developer & Full Stack Software Engineer based in Salem, Tamil Nadu, India.
             </p>
           </div>
 
